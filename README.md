@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anuj and I'm a ..., from Delhi NCR (India)</h2>
+<h2 align="left">Hi 👋! My name is Anuj and I'm a Tech Enthusiast, from Delhi NCR (India)</h2>
 
 ###
 
